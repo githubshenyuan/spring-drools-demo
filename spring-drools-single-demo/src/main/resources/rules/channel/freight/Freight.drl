@@ -1,0 +1,7 @@
+package  com.example.springdroolssingledemo.controller;
+rule "Testing Comments"
+when
+then
+   System.out.println("使用");
+end
+
